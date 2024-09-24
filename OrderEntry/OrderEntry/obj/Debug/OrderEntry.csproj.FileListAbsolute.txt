@@ -1,0 +1,6 @@
+C:\Users\anrab\source\repos\OrderEntry\OrderEntry\obj\Debug\OrderEntry.csproj.AssemblyReference.cache
+C:\Users\anrab\source\repos\OrderEntry\OrderEntry\obj\Debug\OrderEntry.csproj.CoreCompileInputs.cache
+C:\Users\anrab\source\repos\OrderEntry\OrderEntry\bin\Debug\OrderEntry.exe
+C:\Users\anrab\source\repos\OrderEntry\OrderEntry\bin\Debug\OrderEntry.pdb
+C:\Users\anrab\source\repos\OrderEntry\OrderEntry\obj\Debug\OrderEntry.exe
+C:\Users\anrab\source\repos\OrderEntry\OrderEntry\obj\Debug\OrderEntry.pdb
