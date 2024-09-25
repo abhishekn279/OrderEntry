@@ -20,7 +20,7 @@ namespace OrderEntry
             public int Contact { get; set; }
             public string State { get; set; }
 
-            string connectionString = "Data Source=LAPTOP-IIUB2OVA\\SQLEXPRESS;Initial Catalog=OrderEntry;Integrated Security=True";
+            string connectionString = "Data Source=ServrName;Initial Catalog=DatabaseName;Integrated Security=True";
             public void signUp()
             {
 
